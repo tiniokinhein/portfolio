@@ -44,18 +44,6 @@ const Projects = () => (
                     </a>
                 </div>
                 <div className="col-6 col-md-4 mb-3">
-                    <a href="http://video.yatkwat.com" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-                        <img src={WOM} alt="Watch Online Movie" className="mb-0 border" />
-                        <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
-                    </a>
-                </div>
-//                 <div className="col-6 col-md-4 mb-3">
-//                     <a href="http://gwiconsulting.com" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-//                         <img src={GWI} alt="GWI Consulting" className="mb-0 border" />
-//                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
-//                     </a>
-//                 </div>
-                <div className="col-6 col-md-4 mb-3">
                     <a href="https://yatkwat.netlify.com/" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
                         <img src={Yatkwat} alt="YatKwat" className="mb-0 border" />
                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
@@ -79,24 +67,6 @@ const Projects = () => (
                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
                     </a>
                 </div>
-//                 <div className="col-6 col-md-4 mb-3">
-//                     <a href="https://shwesakarmm.com/" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-//                         <img src={SSK} alt="Shwe Sakar" className="mb-0 border" />
-//                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
-//                     </a>
-//                 </div>
-//                 <div className="col-6 col-md-4 mb-3">
-//                     <a href="https://shweyizabe.com/" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-//                         <img src={SYS} alt="Shweyi Zabe" className="mb-0 border" />
-//                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
-//                     </a>
-//                 </div>
-//                 <div className="col-6 col-md-4 mb-3">
-//                     <a href="https://kyitharsteel.com" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-//                         <img src={KTS} alt="Kyi Thar Steel" className="mb-0 border" />
-//                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
-//                     </a>
-//                 </div>
                 <div className="col-6 col-md-4 mb-3">
                     <a href="https://www.dsw.gov.mm" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
                         <img src={DSW} alt="Department Of Social Welfare" className="mb-0 border" />
@@ -115,18 +85,6 @@ const Projects = () => (
                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
                     </a>
                 </div>
-//                 <div className="col-6 col-md-4 mb-3">
-//                     <a href="https://marykyapfoundation.org" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-//                         <img src={Marykyapfoundation} alt="Mary K Yap Foundation" className="mb-0 border" />
-//                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
-//                     </a>
-//                 </div>
-//                 <div className="col-6 col-md-4 mb-3">
-//                     <a href="https://myanmarorphans.org" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-//                         <img src={Myanmarorphans} alt="Myanmar Orphans" className="mb-0 border" />
-//                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
-//                     </a>
-//                 </div>
             </div>
         </div>
     </Layout>
