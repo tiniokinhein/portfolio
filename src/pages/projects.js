@@ -19,12 +19,19 @@ import WOM from '../images/wom.jpg'
 import JIT from '../images/jit.jpg'
 import AustCham from '../images/austcham.jpg'
 import Janamon from '../images/janamon.jpg'
+import FTP from '../images/ftp.png'
 
 const Projects = () => (
     <Layout>
         <SEO title="Working Experiences" />
         <div className="site-name">
             <div className="row">
+                <div className="col-6 col-md-4 mb-3">
+                    <a href="http://frontiertechnologypartners.com" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
+                        <img src={FTP} alt="Frontier Technology Partners" className="mb-0 border" />
+                        <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
+                    </a>
+                </div>
                 <div className="col-6 col-md-4 mb-3">
                     <a href="https://janamon.co/" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
                         <img src={Janamon} alt="Jana Mon - Ethnic Mon Cuisine" className="mb-0 border" />
