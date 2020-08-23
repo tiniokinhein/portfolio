@@ -25,7 +25,7 @@ const Header = () => (
         </h2>
         <p className="text-center">
           <small className="text-white site-name ">
-            Web | JAM Stack | Mobile Developer
+            Web Application | Mobile Application Developer
           </small>
         </p>
       </div>
