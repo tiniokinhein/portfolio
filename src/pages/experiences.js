@@ -37,7 +37,7 @@ const Experiences = () => (
                     <small>Myanmar</small><br />
                     <small><strong>May 2016 — Jul 2016</strong></small><br />
                     <br /><br />
-                    <b className="text-secondary">WEB | JAM STACK | MOBILE DEVELOPER</b><br />
+                    <b className="text-secondary">WEB APPLICATION | MOBILE APPLICATION DEVELOPER</b><br />
                     <small><a href="https://bbg.com.mm" target="_blank" className="text-decoration-none text-dark" rel="noopener noreferrer"><strong>Bagan Business Group Co. Ltd,</strong></a></small><br />
                     <small>Myanmar</small><br />
                     <small><strong>Aug 2016 — Nov 2020</strong></small><br />
