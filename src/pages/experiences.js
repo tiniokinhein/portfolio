@@ -43,14 +43,10 @@ const Experiences = () => (
                     <small><strong>Aug 2016 — Nov 2020</strong></small><br />
                 </div>
                 <div className="col-12 col-sm-6">
-//                     <p className="text-secondary mb-4" style={{
-//                             fontSize: '25px',
-//                             fontStyle: 'italic'
-//                     }}>Current</p>
-//                     <b className="text-secondary">WEB | JAM STACK | MOBILE DEVELOPER</b><br />
-//                     <small><a href="https://bbg.com.mm" target="_blank" className="text-decoration-none text-dark" rel="noopener noreferrer"><strong>Bagan Business Group Co. Ltd,</strong></a></small><br />
-//                     <small>Myanmar</small><br />
-//                     <small><strong>Aug 2016 — Nov 2020</strong></small><br />
+                    <p className="text-secondary mb-4" style={{
+                            fontSize: '25px',
+                            fontStyle: 'italic'
+                    }}>Current</p>
                 </div>
             </div>
         </div>
