@@ -57,18 +57,6 @@ const Projects = () => (
                     </a>
                 </div>
                 <div className="col-6 col-md-4 mb-3">
-                    <a href="https://baganppl.com/" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-                        <img src={BPPL} alt="Bagan Property Private Limited" className="mb-0 border" />
-                        <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
-                    </a>
-                </div>
-                <div className="col-6 col-md-4 mb-3">
-                    <a href="https://modernce.com/" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-                        <img src={MC} alt="Modern Creation Electronics Center" className="mb-0 border" />
-                        <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
-                    </a>
-                </div>
-                <div className="col-6 col-md-4 mb-3">
                     <a href="https://www.ssdsw.gov.mm" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
                         <img src={SSDSW} alt="Department Of Social Welfare" className="mb-0 border" />
                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
@@ -83,12 +71,6 @@ const Projects = () => (
                 <div className="col-6 col-md-4 mb-3">
                     <a href="https://bbg.com.mm" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
                         <img src={BBG} alt="Bagan Business Group" className="mb-0 border" />
-                        <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
-                    </a>
-                </div>
-                <div className="col-6 col-md-4 mb-3">
-                    <a href="https://waiyanaudio.com" target="_blank" rel="noopener noreferrer" className="text-decoration-none">
-                        <img src={Waiyan} alt="Wai Yan Audio" className="mb-0 border" />
                         <p className="border border-top-0 m-0 px-3 py-4 bg-white text-dark text-decoration-none text-center site-name text-uppercase"><small>Visit</small></p>
                     </a>
                 </div>
